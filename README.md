@@ -1,2 +1,3 @@
-# desk-wizard-plugin
+# desk-wizard
+
 DeskWizard Plugin API
